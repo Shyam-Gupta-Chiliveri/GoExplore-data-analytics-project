@@ -254,21 +254,20 @@ August 2026
 ## Screenshots
 
 ### Page 1 — CEO Overview
-![CEO Overview](<img width="637" height="1152" alt="Overview" src="https://github.com/user-attachments/assets/babb38e8-4892-4730-b744-c3f84604884f" />
-)
+![CEO Overview]<img width="637" height="1152" alt="Overview" src="https://github.com/user-attachments/assets/7dea0ea3-5795-4650-8d40-1200e3e52f6f" />
+
 
 ### Page 2 — European Expansion
-![European Expansion](<img width="1211" height="897" alt="European Expansion" src="https://github.com/user-attachments/assets/7045524c-3b01-4abe-a1f6-8d579a5b9a22" />
-)
+![European Expansion]<img width="1211" height="897" alt="European Expansion" src="https://github.com/user-attachments/assets/fcc0f128-b47d-4c09-a3a3-ca337c2826f1" />
+
 
 ### Page 3 — Retailer Connections
-![Retailer Connections](<img width="1184" height="1161" alt="Retailer Connections" src="https://github.com/user-attachments/assets/107bafcd-0496-44ad-a101-bf7fb61fd5f8" />
-)
+![Retailer Connections]<img width="1184" height="1161" alt="Retailer Connections" src="https://github.com/user-attachments/assets/0d3fe10e-ac07-4929-ac36-258abb22f6a4" />
+
 
 ### Page 4 — Marketing
-![Marketing](<img width="1284" height="1167" alt="Marketing" src="https://github.com/user-attachments/assets/8187e152-0b3c-435f-866e-ed9d35151067" />
-)
+![Marketing]<img width="1284" height="1167" alt="Marketing" src="https://github.com/user-attachments/assets/e9c021f6-e94c-4a23-aac2-072bd180c2d2" />
 
 ### Page 5 — CFO Finance
-![CFO Finance](<img width="1249" height="1161" alt="Finance" src="https://github.com/user-attachments/assets/b1f51bf9-101b-4cf0-bd13-2d550e8e55da" />
-)
+![CFO Finance]<img width="1249" height="1161" alt="Finance" src="https://github.com/user-attachments/assets/59a6c954-039e-4fde-91fd-f11711df9f47" />
+

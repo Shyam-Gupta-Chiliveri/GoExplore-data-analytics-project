@@ -218,7 +218,7 @@ FROM aggregated
 ---
 
 ## Dashboard Link
-[View Live Dashboard](your-datastudio-link-here)
+[View Live Dashboard](https://datastudio.google.com/u/1/reporting/44010cef-2ff6-479b-995a-5d755367fe29/page/tEnnC/edit)
 
 ---
 
@@ -254,16 +254,21 @@ August 2026
 ## Screenshots
 
 ### Page 1 — CEO Overview
-![CEO Overview](scree<img width="780" height="1403" alt="Overview" src="https://github.com/user-attachments/assets/4eef8d77-8f48-4f9a-994a-f090d74939a4" />s/page1_ceo_overview.png)
+![CEO Overview](<img width="637" height="1152" alt="Overview" src="https://github.com/user-attachments/assets/babb38e8-4892-4730-b744-c3f84604884f" />
+)
 
 ### Page 2 — European Expansion
-![European Expansion](screenshots/page2_european_expansion.png)
+![European Expansion](<img width="1211" height="897" alt="European Expansion" src="https://github.com/user-attachments/assets/7045524c-3b01-4abe-a1f6-8d579a5b9a22" />
+)
 
 ### Page 3 — Retailer Connections
-![Retailer Connections](screenshots/page3_retailer_connections.png)
+![Retailer Connections](<img width="1184" height="1161" alt="Retailer Connections" src="https://github.com/user-attachments/assets/107bafcd-0496-44ad-a101-bf7fb61fd5f8" />
+)
 
 ### Page 4 — Marketing
-![Marketing](screenshots/page4_marketing.png)
+![Marketing](<img width="1284" height="1167" alt="Marketing" src="https://github.com/user-attachments/assets/8187e152-0b3c-435f-866e-ed9d35151067" />
+)
 
 ### Page 5 — CFO Finance
-![CFO Finance](screenshots/page5_cfo_finance.png)
+![CFO Finance](<img width="1249" height="1161" alt="Finance" src="https://github.com/user-attachments/assets/b1f51bf9-101b-4cf0-bd13-2d550e8e55da" />
+)

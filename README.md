@@ -247,7 +247,7 @@ FROM aggregated
 
 ## Author
 Shyam Sunder Chiliveri
-WBS Coding School — Data Analytics Bootcamp
+WBS Coding School — IT Specialist for Data Science & Artificial Intelligence
 August 2026
 
 ---
